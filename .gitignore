@@ -1,0 +1,8 @@
+*.sw*
+*.vim
+*.obsession*
+*.bak
+*.old
+*.log
+
+
